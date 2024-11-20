@@ -1,6 +1,6 @@
-# Py_package
+# Protocol
 
-A brief description of your module.
+gRPC protocol for THD-C project
 
 ## Installation
 
